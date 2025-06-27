@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1038699848/C_INCLUDE/delimiter=;
+environment/buildEnvironmentInclude/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1038699848/C_INCLUDE/operation=remove
+environment/buildEnvironmentInclude/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1038699848/append=true
+environment/buildEnvironmentInclude/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1038699848/appendContributed=true
+environment/buildEnvironmentInclude/iar.arm.toolchain.project.exe.configuration.release.v5.4.0.2080767179/C_INCLUDE/delimiter=;
+environment/buildEnvironmentInclude/iar.arm.toolchain.project.exe.configuration.release.v5.4.0.2080767179/C_INCLUDE/operation=remove
+environment/buildEnvironmentInclude/iar.arm.toolchain.project.exe.configuration.release.v5.4.0.2080767179/append=true
+environment/buildEnvironmentInclude/iar.arm.toolchain.project.exe.configuration.release.v5.4.0.2080767179/appendContributed=true
+environment/buildEnvironmentLibrary/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1038699848/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1038699848/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1038699848/append=true
+environment/buildEnvironmentLibrary/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1038699848/appendContributed=true
+environment/buildEnvironmentLibrary/iar.arm.toolchain.project.exe.configuration.release.v5.4.0.2080767179/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/iar.arm.toolchain.project.exe.configuration.release.v5.4.0.2080767179/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/iar.arm.toolchain.project.exe.configuration.release.v5.4.0.2080767179/append=true
+environment/buildEnvironmentLibrary/iar.arm.toolchain.project.exe.configuration.release.v5.4.0.2080767179/appendContributed=true
